@@ -7,7 +7,6 @@
 
 - 🌱 web development student
 - 💧 In the final straw is the essence of the Sea.
-- 📫 ...
 
 <br>
 <br>
