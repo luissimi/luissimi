@@ -1,4 +1,8 @@
-> hey there, i'm luis
+-> hey there, i'm luis
+
+
+
+
 
 
 - 🌱 web development student
@@ -9,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/luissimi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luissimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissimi&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luissimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissimi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +26,11 @@
 </div>
 
 ###
+
+
+
+
+
 
 <div>
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
